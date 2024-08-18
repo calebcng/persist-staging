@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"version.json": "594af0db531538b45d60b082b1019127",
-"index.html": "667521098826fcdfe83755bf92999650",
-"/": "667521098826fcdfe83755bf92999650",
-"main.dart.js": "422a88e11d926c2f5025360748d03e9f",
+const RESOURCES = {"version.json": "dc3a7a5d7bdd1f718e2de3fed6c7d0b9",
+"index.html": "522637dd0c900f696caa660a20ed0655",
+"/": "522637dd0c900f696caa660a20ed0655",
+"main.dart.js": "ad4a65c8a6f85c46dd7daa9ef85efe4c",
 "flutter.js": "7d69e653079438abfbb24b82a655b0a4",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -25,7 +25,7 @@ const RESOURCES = {"version.json": "594af0db531538b45d60b082b1019127",
 "assets/packages/flutter_image_compress_web/assets/pica.min.js": "6208ed6419908c4b04382adc8a3053a2",
 "assets/shaders/ink_sparkle.frag": "4096b5150bac93c41cbc9b45276bd90f",
 "assets/AssetManifest.bin": "9f20384c4d7502746ec22d8207bc21e5",
-"assets/fonts/MaterialIcons-Regular.otf": "3eac1db47f5f96684eafa66b0f32b91e",
+"assets/fonts/MaterialIcons-Regular.otf": "5f9ec70889f0e2655ab9a204cb116f2a",
 "assets/assets/unity-hands.gif": "1eea21cbaeeed4ab119cc12c5198e4a5",
 "assets/assets/g-logo.png": "912d3bca67bae6b3d225e1ed9ddb1810",
 "assets/assets/meditative-sun.gif": "cb104e3b5c80b350733a7ad2460e4a64",
